@@ -2,6 +2,11 @@
 <h3 align="center">Developer</h3>
 
 
+
+https://user-images.githubusercontent.com/85889196/227757326-221b4481-a419-4b45-a9e2-0f2bec0eea44.mp4
+
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinexy&row=1" alt="fatih" /></a> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinexy&show_icons=true&theme=buefy&locale=en&count_private=true&hide=issues" alt="Vinexy" width="50%" /></p>
