@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">Developer</h3>
 
+<video autoplay controls src="https://user-images.githubusercontent.com/85889196/227757326-221b4481-a419-4b45-a9e2-0f2bec0eea44.mp4"> </video>
 
-
-https://user-images.githubusercontent.com/85889196/227757326-221b4481-a419-4b45-a9e2-0f2bec0eea44.mp4
 
 
 
