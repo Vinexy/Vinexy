@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Fatih</h1>
 <h3 align="center">Developer</h3>
+<h1 align="center">Hi 👋, I'm Fatih</h1>
 
-<video autoplay controls src="https://user-images.githubusercontent.com/85889196/227757326-221b4481-a419-4b45-a9e2-0f2bec0eea44.mp4"> </video>
 
-
+![ezgif com-optimize (2)](https://user-images.githubusercontent.com/85889196/227758452-9d2c9cdb-eaa9-4e6f-be96-a0942174a8ca.gif)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinexy&row=1" alt="fatih" /></a> </p>
