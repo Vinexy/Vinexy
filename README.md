@@ -104,7 +104,6 @@
     <td><img  src="https://user-images.githubusercontent.com/85889196/227112328-409f317c-57fd-44ca-867d-b4a42f1297c2.gif" width="254" height="440"/></td>
     <td><img  src="https://user-images.githubusercontent.com/85889196/227112059-ddd76b92-2634-47bc-aeb6-c6a7748dcd35.gif" width="254" height="440"/></td>
     <td><img  src="https://user-images.githubusercontent.com/85889196/227112601-242f90c9-b62a-4f14-8b9c-3cac22b5710a.gif" width="254" height="440"/></td>
-    
   </tr>
   
   
@@ -117,10 +116,6 @@
   </tr>
   
 </table>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinexy&row=1" alt="fatih" /></a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinexy&show_icons=true&theme=buefy&locale=en&count_private=true&hide=issues" alt="Vinexy" width="50%" /></p>
 
 
 <h2 align="center">TECHNOLOGIES</h2>
@@ -141,11 +136,4 @@
 <a href="https://nodejs.org/en" target="_blank"> <img src="https://graphql.org/img/og-image.png" alt="python" width="80" height="60"/></a>
 <a href="https://nodejs.org/en" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" alt="python" width="60" height="60"/></a>
 
-
-
 </p>
-
-
-
-
-
