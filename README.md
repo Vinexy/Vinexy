@@ -66,7 +66,21 @@
     <td><img  src="https://user-images.githubusercontent.com/85889196/227578603-d1674a3b-5d95-4f61-a240-8c5272507a90.gif" width="395" height="240"/></td>
     <td><img  src="https://user-images.githubusercontent.com/85889196/227579516-a395e918-7a52-4c22-ba98-c78c6592be46.gif" width="395" height="240"/></td>
   </tr>
+ 
+</table>
+
+<table style="width:100%">
+  <tr>   
+    <th>React Redux Markdown Previewer</th>
+    <th>React Redux Coivd-19 All Countries</th>
+    <th>React Redux Coivd-19 All Countries</th>
+  </tr>
   
+  <tr>   
+    <td><img  src="https://user-images.githubusercontent.com/85889196/227578603-d1674a3b-5d95-4f61-a240-8c5272507a90.gif" width="240" height="440"/></td>
+    <td><img  src="https://user-images.githubusercontent.com/85889196/227579516-a395e918-7a52-4c22-ba98-c78c6592be46.gif" width="240" height="440"/></td>
+    <td><img  src="https://user-images.githubusercontent.com/85889196/227579516-a395e918-7a52-4c22-ba98-c78c6592be46.gif" width="240" height="440"/></td>
+  </tr>
   
 </table>
 
