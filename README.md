@@ -127,7 +127,7 @@
 <p align="left">
 <a href="https://reactjs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="60" height="60"/></a>
 <a href="https://docs.unity3d.com/Manual/index.html" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7FkT1SQek5K_AdBthTowtrvu8MkCp2_qtYg&usqp=CAU" alt="html5" width="60" height="60"/></a>
-<a href="https://reactnative.dev" target="_blank"> <img src="https://cdn.filestackcontent.com/NLhmEQbVQUWSrfIFaXPh" alt="python" width="60" height="60"/></a>
+<a href="https://reactnative.dev" target="_blank"> <img src="https://cdn.filestackcontent.com/NLhmEQbVQUWSrfIFaXPh" alt="python" width="80" height="60"/></a>
 <a href="https://nodejs.org/en" target="_blank"> <img src="https://thumbs.dreamstime.com/b/deep-learning-icon-industry-collection-simple-line-element-symbol-templates-web-design-infographics-175041693.jpg" alt="python" width="60" height="60"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="60" height="60"/></a>
