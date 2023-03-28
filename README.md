@@ -6,11 +6,25 @@
 </h4>
 
 <div align="left"> 
-  <img  src="https://user-images.githubusercontent.com/85889196/223253108-0a27dfe7-93d0-49ea-9e5d-7ec5ae720ad7.gif" width="270" height="200"/>
-  <img  src="https://user-images.githubusercontent.com/85889196/222722464-c3a2e36f-d605-4185-9204-66396bde28a6.gif" width="270" height="200"/>
-  <img  src="https://user-images.githubusercontent.com/85889196/227111115-cb79bf63-a596-4d45-ac3f-498dfcf5b405.gif" width="270" height="200"/>
+  <img  src="https://user-images.githubusercontent.com/85889196/223253108-0a27dfe7-93d0-49ea-9e5d-7ec5ae720ad7.gif" width="250" height="150"/>
+  <img  src="https://user-images.githubusercontent.com/85889196/222722464-c3a2e36f-d605-4185-9204-66396bde28a6.gif" width="250" height="150"/>
+  <img  src="https://user-images.githubusercontent.com/85889196/227111115-cb79bf63-a596-4d45-ac3f-498dfcf5b405.gif" width="250" height="150"/>
 </div>
 <hr>
+
+<table style="width:100%">
+  <tr>
+    <th>Unity Augmented Reality Sigma Money</th>
+    <th>Unity Face Detection Brick Breaker</th>
+    <th>Unity Flintstones Platform Game</th>
+  </tr>
+  <tr>
+    <td><img  src="https://user-images.githubusercontent.com/85889196/223253108-0a27dfe7-93d0-49ea-9e5d-7ec5ae720ad7.gif" width="270" height="200"/></td>
+    <td><img  src="https://user-images.githubusercontent.com/85889196/222722464-c3a2e36f-d605-4185-9204-66396bde28a6.gif" width="270" height="200"/></td>
+    <td><img  src="https://user-images.githubusercontent.com/85889196/227111115-cb79bf63-a596-4d45-ac3f-498dfcf5b405.gif" width="270" height="200"/></td>
+  </tr>
+  
+</table>
 
 
 ![ezgif com-optimize (2)](https://user-images.githubusercontent.com/85889196/227758452-9d2c9cdb-eaa9-4e6f-be96-a0942174a8ca.gif)
