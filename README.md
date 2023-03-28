@@ -19,9 +19,9 @@
     <th>Unity Flintstones Platform Game</th>
   </tr>
   <tr>
-    <td><img  src="https://user-images.githubusercontent.com/85889196/223253108-0a27dfe7-93d0-49ea-9e5d-7ec5ae720ad7.gif" width="250" height="200"/></td>
-    <td><img  src="https://user-images.githubusercontent.com/85889196/222722464-c3a2e36f-d605-4185-9204-66396bde28a6.gif" width="250" height="200"/></td>
-    <td><img  src="https://user-images.githubusercontent.com/85889196/227111115-cb79bf63-a596-4d45-ac3f-498dfcf5b405.gif" width="250" height="200"/></td>
+    <td><img  src="https://user-images.githubusercontent.com/85889196/223253108-0a27dfe7-93d0-49ea-9e5d-7ec5ae720ad7.gif" width="254" height="150"/></td>
+    <td><img  src="https://user-images.githubusercontent.com/85889196/222722464-c3a2e36f-d605-4185-9204-66396bde28a6.gif" width="254" height="150"/></td>
+    <td><img  src="https://user-images.githubusercontent.com/85889196/227111115-cb79bf63-a596-4d45-ac3f-498dfcf5b405.gif" width="254" height="150"/></td>
   </tr>
   
 </table>
