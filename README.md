@@ -1,28 +1,59 @@
 <h3 align="center">Developer</h3>
 <h1 align="center">Hi 👋, I'm Fatih</h1>
 
-<h4 > 
-&nbsp; &nbsp;  Unity Augmented Reality Sigma Money    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    Unity Face Detection Brick Breaker  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Unity Flintstones Platform Game 
-</h4>
-
-<div align="left"> 
-  <img  src="https://user-images.githubusercontent.com/85889196/223253108-0a27dfe7-93d0-49ea-9e5d-7ec5ae720ad7.gif" width="250" height="150"/>
-  <img  src="https://user-images.githubusercontent.com/85889196/222722464-c3a2e36f-d605-4185-9204-66396bde28a6.gif" width="250" height="150"/>
-  <img  src="https://user-images.githubusercontent.com/85889196/227111115-cb79bf63-a596-4d45-ac3f-498dfcf5b405.gif" width="250" height="150"/>
-</div>
-<hr>
-
 <table style="width:100%">
+  
   <tr>
     <th>Unity Augmented Reality Sigma Money</th>
     <th>Unity Face Detection Brick Breaker</th>
     <th>Unity Flintstones Platform Game</th>
   </tr>
+  
   <tr>
     <td><img  src="https://user-images.githubusercontent.com/85889196/223253108-0a27dfe7-93d0-49ea-9e5d-7ec5ae720ad7.gif" width="255" height="150"/></td>
     <td><img  src="https://user-images.githubusercontent.com/85889196/222722464-c3a2e36f-d605-4185-9204-66396bde28a6.gif" width="255" height="150"/></td>
     <td><img  src="https://user-images.githubusercontent.com/85889196/227111115-cb79bf63-a596-4d45-ac3f-498dfcf5b405.gif" width="255" height="150"/></td>
   </tr>
+  
+   
+  <tr>
+    <th>React Image to Text from Youtube</th>
+    <th>Unity Mirror Multiplayer Ship War</th>
+    <th>React Redux Typing Speed App</th>
+  </tr>
+  
+  <tr>
+    <td><img  src="https://user-images.githubusercontent.com/85889196/227568031-144852fd-c115-4f9d-87de-a8e89f1ed85c.gif" width="255" height="150"/></td>
+    <td><img  src="https://user-images.githubusercontent.com/85889196/227571149-52620a0a-0cff-4be1-9515-76e65b897e49.gif" width="255" height="150"/></td>
+    <td><img  src="https://user-images.githubusercontent.com/85889196/227572507-fe5c750c-b7fc-40d7-af42-4a05f4260317.gif" width="255" height="150"/></td>
+  </tr>
+  
+  
+  <tr>
+    <th>React Redux Memory Game</th>
+    <th>React Redux Spend Bill Gates Money</th>
+    <th>React Redux Notes App</th>
+  </tr>
+  
+  <tr>
+    <td><img  src="https://user-images.githubusercontent.com/85889196/227575023-d21141b9-8f15-40ba-82ef-f490b2a3f6d8.gif" width="255" height="150"/></td>
+    <td><img  src="https://user-images.githubusercontent.com/85889196/227575779-1cea1176-4ba0-463c-b944-46d7b772e883.gif" width="255" height="150"/></td>
+    <td><img  src="https://user-images.githubusercontent.com/85889196/227576877-0464f392-493a-42bf-b200-250c8dc2a7a5.gif" width="255" height="150"/></td>
+  </tr>
+  
+  <tr>
+    <th>React Redux Weather App</th>
+    <th>React Redux Markdown Previewer</th>
+    <th>React Redux Coivd-19 All Countries</th>
+  </tr>
+  
+  <tr>
+    <td><img  src="https://user-images.githubusercontent.com/85889196/227577551-0410e140-616f-431c-a806-e785e84b7ff4.gif" width="255" height="150"/></td>
+    <td><img  src="https://user-images.githubusercontent.com/85889196/227578603-d1674a3b-5d95-4f61-a240-8c5272507a90.gif" width="255" height="150"/></td>
+    <td><img  src="https://user-images.githubusercontent.com/85889196/227579516-a395e918-7a52-4c22-ba98-c78c6592be46.gif" width="255" height="150"/></td>
+  </tr>
+  
+  
   
 </table>
 
