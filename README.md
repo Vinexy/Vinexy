@@ -81,7 +81,7 @@
 <table style="width:100%">
   
   <tr>   
-    <th>React Unity Face Mask Android</th>
+    <th>Unity Face Mask Android</th>
     <th>Unity Space Shooter Game</th>
     <th>React Native Code Talks Firebase</th>
   </tr>
