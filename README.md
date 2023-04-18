@@ -69,11 +69,32 @@
   
   
   <tr>   
-    <th>React Redux Coivd-19 All Countries</th>
+    <th>React Redux Covid-19 All Countries</th>
+    <th>Deep NLP Pos-Neg Comment Discriminator</th>
   </tr>
   
   <tr>   
-    <td><img  src="https://user-images.githubusercontent.com/85889196/227579516-a395e918-7a52-4c22-ba98-c78c6592be46.gif" width="395" height="240"/></td> 
+    <td><img  src="https://user-images.githubusercontent.com/85889196/227579516-a395e918-7a52-4c22-ba98-c78c6592be46.gif" width="395" height="240"/></td>
+    <td><img  src="https://user-images.githubusercontent.com/85889196/232251935-0e6c7836-7034-482c-a4bc-a732a5495186.gif" width="395" height="240"/></td> 
+  </tr>
+  
+  
+  <tr>   
+    <th>Deep Retinanet Chess Piece Recognition</th>
+    <th>Deep Conv Facial Expression Recognition</th>
+  </tr>
+  
+  <tr>   
+    <td><img  src="https://user-images.githubusercontent.com/85889196/232251944-02081294-0225-4de0-af5e-63c6eccdc453.gif" width="395" height="240"/></td>
+    <td><img  src="https://user-images.githubusercontent.com/85889196/232251952-1ad392c4-a805-47f4-aff1-bab315f3676c.gif" width="395" height="240"/></td> 
+  </tr>
+  
+  <tr>   
+    <th>Deep GANs Creating Synthetic Clothes</th>
+  </tr>
+  
+  <tr>   
+    <td><img  src="https://user-images.githubusercontent.com/85889196/232251937-5da0a02c-4722-4754-a06d-a217dcc09718.gif" width="395" height="240"/></td>
   </tr>
  
 </table>
