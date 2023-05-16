@@ -91,7 +91,7 @@
   
   <tr>   
     <th>Deep GANs Creating Synthetic Clothes</th>
-    <th>Talking Photos with MakeItTalk</th>
+    <th>Deep Talking Photos with MakeItTalk</th>
   </tr>
   
   <tr>   
