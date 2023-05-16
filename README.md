@@ -91,10 +91,13 @@
   
   <tr>   
     <th>Deep GANs Creating Synthetic Clothes</th>
+    <th>Talking Photos with MakeItTalk</th>
   </tr>
   
   <tr>   
     <td><img  src="https://user-images.githubusercontent.com/85889196/232251937-5da0a02c-4722-4754-a06d-a217dcc09718.gif" width="395" height="240"/></td>
+    <td><img  src="https://github.com/Vinexy/DeepLearning/assets/85889196/77340a41-28f0-4e12-8d76-7b81af2766f8" width="395" height="240"/></td>
+    
   </tr>
  
 </table>
@@ -137,6 +140,12 @@
     <td><img  src="https://user-images.githubusercontent.com/85889196/227109030-c6e085f9-65ef-4825-a4bb-d69fb04cfb96.gif" width="254" height="440"/></td>
     <td><img  src="https://user-images.githubusercontent.com/85889196/236079312-dba78a05-ee45-4186-8947-31b25eba073b.gif" width="254" height="440"/></td>
   </tr>
+  
+  
+  
+  
+  
+  
 </table>
 
 
