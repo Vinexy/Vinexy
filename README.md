@@ -99,6 +99,14 @@
     <td><img  src="https://github.com/Vinexy/DeepLearning/assets/85889196/77340a41-28f0-4e12-8d76-7b81af2766f8" width="395" height="240"/></td>
     
   </tr>
+  
+  <tr>   
+    <th>React Tensorflow Hand Movement Site</th>
+  </tr>
+  
+  <tr>   
+    <td><img  src="https://github.com/Vinexy/NextJS-Projects/assets/85889196/15dde65b-abb5-44f5-868d-0d96fa96bbd4" width="395" height="240"/></td>
+  </tr>
  
 </table>
 
