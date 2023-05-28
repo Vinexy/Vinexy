@@ -101,7 +101,7 @@
   </tr>
   
   <tr>   
-    <th>React Tensorflow Hand Movement Site</th>
+    <th>React Tensorflow WebCam Site with Hand Movement</th>
   </tr>
   
   <tr>   
