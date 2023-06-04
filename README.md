@@ -142,7 +142,7 @@
   <tr>   
     <th>React Native e-store App Style</th>
     <th>Unity AR Furniture Position</th>
-    <th>Unity AI Voice Assistant AWS-OpenAI-Lipsync</th>
+    <th>Unity AI Voice Assistant AWS-OpenAI</th>
   </tr>
   
   <tr>   
