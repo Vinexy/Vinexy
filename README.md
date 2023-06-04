@@ -142,11 +142,13 @@
   <tr>   
     <th>React Native e-store App Style</th>
     <th>Unity AR Furniture Position</th>
+    <th>Unity AI Voice Assistant AWS-OpenAI-Lipsync</th>
   </tr>
   
   <tr>   
     <td><img  src="https://user-images.githubusercontent.com/85889196/227109030-c6e085f9-65ef-4825-a4bb-d69fb04cfb96.gif" width="254" height="440"/></td>
     <td><img  src="https://user-images.githubusercontent.com/85889196/236079312-dba78a05-ee45-4186-8947-31b25eba073b.gif" width="254" height="440"/></td>
+    <td><img  src="https://github.com/Vinexy/Unity-AWS-OpenAi-Ai-Voice-Assistant/assets/85889196/66391951-2a21-4407-976b-798919551238" width="254" height="440"/></td>
   </tr>
   
   
