@@ -150,7 +150,14 @@
     <td><img  src="https://user-images.githubusercontent.com/85889196/236079312-dba78a05-ee45-4186-8947-31b25eba073b.gif" width="254" height="440"/></td>
     <td><img  src="https://github.com/Vinexy/Unity-AWS-OpenAi-Ai-Voice-Assistant/assets/85889196/66391951-2a21-4407-976b-798919551238" width="254" height="440"/></td>
   </tr>
+
+  <tr>   
+    <th>İdariYasaGPT Langchain OpenAI Streamlit</th>
+  </tr>
   
+  <tr>   
+    <td><img  src="https://github.com/Vinexy/IdariYasaGPT/assets/85889196/b35ea4a2-690c-4c49-aee2-c0693ebf9445" width="254" height="440"/></td>
+  </tr>
   
   
   
