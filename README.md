@@ -4,24 +4,24 @@
 <table style="width:100%">
   
   <tr>
-    <th>Unity Augmented Reality Sigma Money</th>
-    <th>Unity Face Detection Brick Breaker</th>   
+    <th>Angular SpringBoot Fullstack CRUD App</th>
+    <th>Fullstack AI Flask NextJS Medical Diagnose</th>   
   </tr>
   
   <tr>
-    <td><img  src="https://user-images.githubusercontent.com/85889196/223253108-0a27dfe7-93d0-49ea-9e5d-7ec5ae720ad7.gif" width="395" height="240"/></td>
-    <td><img  src="https://user-images.githubusercontent.com/85889196/222722464-c3a2e36f-d605-4185-9204-66396bde28a6.gif" width="395" height="240"/></td>  
+    <td><img  src="https://github.com/Vinexy/Angular-SpringBoot-Fullstack-CRUD-App/assets/85889196/54af7deb-0660-4e41-90d6-4dbea667d1a6" width="395" height="240"/></td>
+    <td><img  src="https://github.com/Vinexy/Fullstack-AI-Flask-NextJS-Medical-Diagnose/assets/85889196/e2343bac-30fd-4cb8-bb26-4a7294de547b" width="395" height="240"/></td>  
   </tr>
   
    
   <tr>
-    <th>Unity Flintstones Platform Game</th>
-    <th>OpenCV Video Text Detection</th>
+    <th>React Tensorflow Hand Move Site WebCam</th>
+    <th>Deep Talking Photos with MakeItTalk</th>
   </tr>
   
   <tr>
-    <td><img  src="https://user-images.githubusercontent.com/85889196/227111115-cb79bf63-a596-4d45-ac3f-498dfcf5b405.gif" width="395" height="240"/></td>
-    <td><img  src="https://user-images.githubusercontent.com/85889196/227754190-390a42ba-ee25-4898-9bfb-3efa354d7eec.gif" width="395" height="240"/></td>
+    <td><img  src="https://github.com/Vinexy/NextJS-Projects/assets/85889196/15dde65b-abb5-44f5-868d-0d96fa96bbd4" width="395" height="240"/></td>
+    <td><img  src="https://github.com/Vinexy/DeepLearning/assets/85889196/77340a41-28f0-4e12-8d76-7b81af2766f8" width="395" height="240"/></td>
   </tr>
   
   
