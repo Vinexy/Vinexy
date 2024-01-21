@@ -87,38 +87,35 @@
     <td><img  src="https://user-images.githubusercontent.com/85889196/227577551-0410e140-616f-431c-a806-e785e84b7ff4.gif" width="395" height="240"/></td>
   </tr>
   
-  <tr>   
-    <th>Deep GANs Creating Synthetic Clothes</th>
-    <th>Deep Talking Photos with MakeItTalk</th>
-  </tr>
   
-  <tr>   
-    <td><img  src="https://user-images.githubusercontent.com/85889196/232251937-5da0a02c-4722-4754-a06d-a217dcc09718.gif" width="395" height="240"/></td>
-    <td><img  src="https://github.com/Vinexy/DeepLearning/assets/85889196/77340a41-28f0-4e12-8d76-7b81af2766f8" width="395" height="240"/></td>
-    
-  </tr>
-  
-  <tr>   
-    <th>React Tensorflow WebCam Site with Hand Movement</th>
-  </tr>
-  
-  <tr>   
-    <td><img  src="https://github.com/Vinexy/NextJS-Projects/assets/85889196/15dde65b-abb5-44f5-868d-0d96fa96bbd4" width="395" height="240"/></td>
-  </tr>
  
 </table>
 
 <table style="width:100%">
   
   <tr>   
-    <th>Unity Face Mask Android</th>
-    <th>Unity Space Shooter Game</th>
-    <th>React Native Code Talks Firebase</th>
+    <th>İdariYasaGPT Langchain OpenAI</th>
+    <th>Unity AR Furniture Position App</th>
+    <th>Unity AI Voice Assistant AWS</th>
   </tr>
   
   <tr>   
+    <td><img  src="https://github.com/Vinexy/IdariYasaGPT/assets/85889196/5c26ee6f-d38c-4dd0-981d-c77a26555bd9" width="254" height="440"/></td>
+    <td><img  src="https://user-images.githubusercontent.com/85889196/236079312-dba78a05-ee45-4186-8947-31b25eba073b.gif" width="254" height="440"/></td>
+    <td><img  src="https://github-production-user-asset-6210df.s3.amazonaws.com/85889196/243145087-66391951-2a21-4407-976b-798919551238.gif" width="254" height="440"/></td>
+  </tr>
+  
+  
+  <tr>   
+    <th>Deep GANs Synthetic Clothes</th>
+    <th>Unity Face Mask Android</th>
+    <th>React Native Code Talk Firebase</th>
+    
+  </tr>
+  
+  <tr>   
+    <td><img  src="https://user-images.githubusercontent.com/85889196/232251937-5da0a02c-4722-4754-a06d-a217dcc09718.gif" width="254" height="440"/></td>
     <td><img  src="https://user-images.githubusercontent.com/85889196/222955010-e690b80c-9526-4197-9e5b-b05849c2b8bd.gif" width="254" height="440"/></td>
-    <td><img  src="https://user-images.githubusercontent.com/85889196/227754549-c1c110ae-5568-45f0-9657-71d3b1f96fb7.gif" width="254" height="440"/></td>
     <td><img  src="https://user-images.githubusercontent.com/85889196/227106987-af9f9613-2a67-4a47-bb85-5b84b0455240.gif" width="254" height="440"/></td>
   </tr>
   
@@ -127,7 +124,6 @@
     <th>React Native Recipe App</th>
     <th>React Native Find Job App</th>
     <th>React Native Todo App</th>
-    
   </tr>
   
   <tr>   
@@ -135,27 +131,22 @@
     <td><img  src="https://user-images.githubusercontent.com/85889196/227112059-ddd76b92-2634-47bc-aeb6-c6a7748dcd35.gif" width="254" height="440"/></td>
     <td><img  src="https://user-images.githubusercontent.com/85889196/227112601-242f90c9-b62a-4f14-8b9c-3cac22b5710a.gif" width="254" height="440"/></td>
   </tr>
-  
-  
+
+
+
   <tr>   
     <th>React Native e-store App Style</th>
-    <th>Unity AR Furniture Position</th>
-    <th>Unity AI Voice Assistant AWS-OpenAI</th>
+    <th>OpenCV Video Text Detection</th>
+    <th>Unity Space Shooter Game</th>
   </tr>
   
   <tr>   
     <td><img  src="https://user-images.githubusercontent.com/85889196/227109030-c6e085f9-65ef-4825-a4bb-d69fb04cfb96.gif" width="254" height="440"/></td>
-    <td><img  src="https://user-images.githubusercontent.com/85889196/236079312-dba78a05-ee45-4186-8947-31b25eba073b.gif" width="254" height="440"/></td>
-    <td><img  src="https://github.com/Vinexy/Unity-AWS-OpenAi-Ai-Voice-Assistant/assets/85889196/66391951-2a21-4407-976b-798919551238" width="254" height="440"/></td>
+    <td><img  src="https://user-images.githubusercontent.com/85889196/227754190-390a42ba-ee25-4898-9bfb-3efa354d7eec.gif" width="254" height="440"/></td>
+    <td><img  src="https://user-images.githubusercontent.com/85889196/227754549-c1c110ae-5568-45f0-9657-71d3b1f96fb7.gif" width="254" height="440"/></td>
   </tr>
 
-  <tr>   
-    <th>İdariYasaGPT Langchain OpenAI Streamlit</th>
-  </tr>
   
-  <tr>   
-    <td><img  src="https://github.com/Vinexy/IdariYasaGPT/assets/85889196/5c26ee6f-d38c-4dd0-981d-c77a26555bd9" width="254" height="440"/></td>
-  </tr>
   
   
   
