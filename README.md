@@ -26,67 +26,65 @@
   
   
   <tr>
-    <th>React Image to Text from Youtube</th>
     <th>Unity Mirror Multiplayer Ship War</th>
+    <th>Unity AR Face Detection Brick Breaker</th>
   </tr>
   
   <tr>
-    <td><img  src="https://user-images.githubusercontent.com/85889196/227568031-144852fd-c115-4f9d-87de-a8e89f1ed85c.gif" width="395" height="240"/></td>    
-    <td><img  src="https://user-images.githubusercontent.com/85889196/227571149-52620a0a-0cff-4be1-9515-76e65b897e49.gif" width="395" height="240"/></td>
+    <td><img  src="https://user-images.githubusercontent.com/85889196/227571149-52620a0a-0cff-4be1-9515-76e65b897e49.gif" width="395" height="240"/></td>    
+    <td><img  src="https://user-images.githubusercontent.com/85889196/222722464-c3a2e36f-d605-4185-9204-66396bde28a6.gif" width="395" height="240"/></td>
   </tr>
   
   <tr>
-    <th>React Redux Typing Speed App</th> 
-    <th>React Redux Memory Game</th>
+    <th>Deep Retinanet Chess Piece Recognition</th> 
+    <th>Unity Flintstones Platform Game</th>
   </tr>
   
   <tr>
-    <td><img  src="https://user-images.githubusercontent.com/85889196/227572507-fe5c750c-b7fc-40d7-af42-4a05f4260317.gif" width="395" height="240"/></td> 
-    <td><img  src="https://user-images.githubusercontent.com/85889196/227575023-d21141b9-8f15-40ba-82ef-f490b2a3f6d8.gif" width="395" height="240"/></td>
+    <td><img  src="https://user-images.githubusercontent.com/85889196/232251944-02081294-0225-4de0-af5e-63c6eccdc453.gif" width="395" height="240"/></td> 
+    <td><img  src="https://user-images.githubusercontent.com/85889196/227111115-cb79bf63-a596-4d45-ac3f-498dfcf5b405.gif" width="395" height="240"/></td>
   </tr>
   
   
   <tr>
+    <th>React Redux Typing Speed App</th>
     <th>React Redux Spend Bill Gates Money</th>
+  </tr>
+  
+  <tr>
+    <td><img  src="https://user-images.githubusercontent.com/85889196/227572507-fe5c750c-b7fc-40d7-af42-4a05f4260317.gif" width="395" height="240"/></td>
+    <td><img  src="https://user-images.githubusercontent.com/85889196/227575779-1cea1176-4ba0-463c-b944-46d7b772e883.gif" width="395" height="240"/></td>
+  </tr>
+  
+  
+  <tr>   
+    <th>React Redux Memory Game</th>
+    <th>React Redux Coivd-19 All Countries</th>
+  </tr>
+  
+  <tr>   
+    <td><img  src="https://user-images.githubusercontent.com/85889196/227575023-d21141b9-8f15-40ba-82ef-f490b2a3f6d8.gif" width="395" height="240"/></td>   
+    <td><img  src="https://user-images.githubusercontent.com/85889196/227579516-a395e918-7a52-4c22-ba98-c78c6592be46.gif" width="395" height="240"/></td>
+  </tr>
+  
+  
+  <tr>   
+    <th>React Redux Markdown Previewer</th>
     <th>React Redux Notes App</th>
   </tr>
   
-  <tr>
-    <td><img  src="https://user-images.githubusercontent.com/85889196/227575779-1cea1176-4ba0-463c-b944-46d7b772e883.gif" width="395" height="240"/></td>
-    <td><img  src="https://user-images.githubusercontent.com/85889196/227576877-0464f392-493a-42bf-b200-250c8dc2a7a5.gif" width="395" height="240"/></td>
+  <tr>   
+    <td><img  src="https://user-images.githubusercontent.com/85889196/227578603-d1674a3b-5d95-4f61-a240-8c5272507a90.gif" width="395" height="240"/></td>
+    <td><img  src="https://user-images.githubusercontent.com/85889196/227576877-0464f392-493a-42bf-b200-250c8dc2a7a5.gif" width="395" height="240"/></td> 
   </tr>
   
   
   <tr>   
     <th>React Redux Weather App</th>
-    <th>React Redux Markdown Previewer</th>
   </tr>
   
   <tr>   
-    <td><img  src="https://user-images.githubusercontent.com/85889196/227577551-0410e140-616f-431c-a806-e785e84b7ff4.gif" width="395" height="240"/></td>   
-    <td><img  src="https://user-images.githubusercontent.com/85889196/227578603-d1674a3b-5d95-4f61-a240-8c5272507a90.gif" width="395" height="240"/></td>
-  </tr>
-  
-  
-  <tr>   
-    <th>React Redux Covid-19 All Countries</th>
-    <th>Deep NLP Pos-Neg Comment Discriminator</th>
-  </tr>
-  
-  <tr>   
-    <td><img  src="https://user-images.githubusercontent.com/85889196/227579516-a395e918-7a52-4c22-ba98-c78c6592be46.gif" width="395" height="240"/></td>
-    <td><img  src="https://user-images.githubusercontent.com/85889196/232251935-0e6c7836-7034-482c-a4bc-a732a5495186.gif" width="395" height="240"/></td> 
-  </tr>
-  
-  
-  <tr>   
-    <th>Deep Retinanet Chess Piece Recognition</th>
-    <th>Deep Conv Facial Expression Recognition</th>
-  </tr>
-  
-  <tr>   
-    <td><img  src="https://user-images.githubusercontent.com/85889196/232251944-02081294-0225-4de0-af5e-63c6eccdc453.gif" width="395" height="240"/></td>
-    <td><img  src="https://user-images.githubusercontent.com/85889196/232251952-1ad392c4-a805-47f4-aff1-bab315f3676c.gif" width="395" height="240"/></td> 
+    <td><img  src="https://user-images.githubusercontent.com/85889196/227577551-0410e140-616f-431c-a806-e785e84b7ff4.gif" width="395" height="240"/></td>
   </tr>
   
   <tr>   
